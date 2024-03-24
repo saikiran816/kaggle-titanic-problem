@@ -9,5 +9,6 @@ This repository is an ongoing project, where I continually update it with new im
 ## Kaggle Competition Link
 For more information about the Titanic Kaggle competition, you can visit the competition page [here](https://www.kaggle.com/competitions/titanic).
 
-### Problem Understanding
-The goal of the Titanic project is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, and ticket fare. It's a binary classification problem where the target variable is "Survived" (1 if survived, 0 if not survived).
+## Problem Understanding
+- The goal of the Titanic project is to predict whether a passenger survived or not based on various features such as age, sex, passenger class, and ticket fare. 
+- It's a binary classification problem where the target variable is "Survived" (1 if survived, 0 if not survived).
