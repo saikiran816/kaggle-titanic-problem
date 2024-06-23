@@ -1,0 +1,8 @@
+datasets:
+  abs_path: "data"
+  raw: "data/raw"
+  processed: "data/processed"
+  cleaned: "data/cleaned"
+  test: "data/test"
+  train: "data/train"
+  overwrite: True
